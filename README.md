@@ -8,4 +8,9 @@ In Kubernetes, a probe is a mechanism used to determine the health and readiness
 * Liveness
 *  Readiness
 *  Startup
+4. [Deployment Strategy in Kubernetes](https://medium.com/@subhampradhan966/mastering-kubernetes-deployment-strategies-rolling-update-canary-blue-green-9933adac4e76)
+  * Rolling updates
+  * Canary
+  * Blue-green
+
 
