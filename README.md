@@ -12,5 +12,7 @@ In Kubernetes, a probe is a mechanism used to determine the health and readiness
   * Rolling updates
   * Canary
   * Blue-green
+5. [Communication between services in different namespace](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/): DNS-based service discovery `servicename.namespace.svc.cluster.local`
+
 
 
